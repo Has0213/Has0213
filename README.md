@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 <h1>Hi, I'm Hasini! 
+<h2> Data Analyst 
 <h2>👩‍💻 Data Analyst Projects:</h2>
 
 - <b>SQL Data Analysis</b>
