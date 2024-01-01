@@ -19,8 +19,8 @@
  
 <h2>📄 Certifications:</h2>
 
-- <b>Excel Fundamentals - Formulas for Finance-CFI</b>
-  - [certificate](https://credentials.corporatefinanceinstitute.com/4df62bd5-3170-4373-84b1-22a408765478)
+- <b>Business Intelligence & Data Analyst (BIDA®) - CFI</b>
+  - [certificate](https://pdf.credential.net/n5rf2fwd_1704083348322.pdf)
 - <b>AI Programming with Python Nanodegree - Udacity</b>
   - [certificate](https://graduation.udacity.com/confirm/K5L2YWW6)
 - <b>Optimizing Machine Learning Models in Pythonb - Dataquest</b>
